@@ -7,7 +7,7 @@ from PyPDF2 import PdfReader
 from docx import Document
 
 # Hugging Face API Key
-API_KEY = ""
+API_KEY = "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"
 client = InferenceClient(api_key=API_KEY)
 
 # Functions
